@@ -117,8 +117,10 @@ UPDATE public."Users" SET "Role" = 'Admin' WHERE "Username" = 'kullanici_adi';
 
 ## 📸 Ekran Görüntüleri
 
-> Login ekranı, ana panel, rapor ekranı ve silinen araçlar ekran görüntüleri `screenshots/` klasöründe yer almaktadır.
-
+![Login](screenshots/login.JPG)
+![Ana Panel](screenshots/ana panel.JPG)
+![Kullanıcı Girişi](screenshots/kullanıcı.JPG)
+![Admin Girişi](screenshots/admin.JPG)
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
