@@ -118,9 +118,9 @@ UPDATE public."Users" SET "Role" = 'Admin' WHERE "Username" = 'kullanici_adi';
 ## 📸 Ekran Görüntüleri
 
 ![Login](screenshots/login.JPG)
-![Anasayfa](screenshots/ana-panel.JPG)
-![Kullanıcı Girişi](screenshots/kullanıcı.JPG)
-![Admin Girişi](screenshots/admin.JPG)
+![Anasayfa](screenshots/ana-panel.jpg)
+![Kullanıcı Girişi](screenshots/kullanici.jpg)
+![Admin Girişi](screenshots/admin.jpg)
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
