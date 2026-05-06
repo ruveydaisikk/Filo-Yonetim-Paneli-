@@ -117,16 +117,16 @@ UPDATE public."Users" SET "Role" = 'Admin' WHERE "Username" = 'kullanici_adi';
 ## 📸 Ekran Görüntüleri
 
 ### Login
-![Login](public/login.jpg)
+![Login](FleetManager.Client/public/login.jpg)
 
 ### Ana Panel
-![Ana Panel](public/ana-panel.jpg)
+![Ana Panel](FleetManager.Client/public/ana-panel.jpg)
 
 ### Kullanıcı Girişi
-![Kullanıcı Girişi](public/kullanici.jpg)
+![Kullanıcı Girişi](FleetManager.Client/public/kullanici.jpg)
 
 ### Admin Girişi
-![Admin Girişi](public/admin.jpg)
+![Admin Girişi](FleetManager.Client/public/admin.jpg)
 
 ---
 
