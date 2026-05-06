@@ -4,10 +4,6 @@ Araç ekleme, düzenleme, soft delete ve listeleme işlemlerini kapsayan tam yö
 **React · ASP.NET Core · EF Core · PostgreSQL**
 
 ---
-## 🌐 Canlı Demo
-
-[https://filo-yonetim-paneli.vercel.app](https://filo-yonetim-paneli.vercel.app)
-
 
 ## 📋 Proje Hakkında
 
